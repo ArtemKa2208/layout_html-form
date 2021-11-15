@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AACA,IACE,kBACF,CAEA,eACE,QACF,CAEA,SACE,kBACF,CAEA,EACE,cACF","file":"style.e5193522.css","sourceRoot":"..\\src","sourcesContent":["/* styles go here */\ndiv {\n  margin-bottom: 10px;\n}\n\ndiv:last-child {\n  margin: 0;\n}\n\nfieldset {\n  margin-bottom: 20px;\n}\n\np {\n  display: inline;\n}\n"]}
