@@ -1,1 +1,16 @@
 /* styles go here */
+div {
+  margin-bottom: 10px;
+}
+
+div:last-child {
+  margin: 0;
+}
+
+fieldset {
+  margin-bottom: 20px;
+}
+
+p {
+  display: inline;
+}
